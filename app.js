@@ -1,3 +1,3 @@
 // JavaScript source code
 
-alert("Hello World!!")
+alert("Welcome to the best AR experience on the web")
